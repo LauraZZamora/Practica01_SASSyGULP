@@ -1,0 +1,18 @@
+{
+  "name": "practica01_sassygulp",
+  "version": "1.0.0",
+  "description": "Proyecto con Gulp, SASS y HTML",
+  "main": "index.js",
+  "scripts": {
+    "sass": "sass --watch src/scss:build/css"
+  },
+  "keywords": [
+    "SASS",
+    "Gulp"
+  ],
+  "author": "LauraZZamora",
+  "license": "ISC",
+  "devDependencies": {
+    "sass": "^1.52.3"
+  }
+}
